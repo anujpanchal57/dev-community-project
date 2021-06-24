@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://anujpanchal57:heenaanuj53@dev-community-cluster.qazlv.mongodb.net/dev-community-cluster?retryWrites=true&w=majority",
-    "jwtSecret": "dev-community-starter",
-    "githubClientId": "fbd2862b13c0b7a4c51a",
-    "githubSecret": "c3a1b06844dd31f75a2fdbe0f37d7ec418602db3"
-}
