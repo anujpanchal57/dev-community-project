@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Social network for devs",
   "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
@@ -13,6 +16,7 @@
   "author": "Anuj Panchal",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.3",
     "express": "^4.17.1",
